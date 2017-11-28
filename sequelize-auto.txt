@@ -1,0 +1,2 @@
+sequelize-auto -o "./models" -d carpet -h localhost -u burak -p 3306 -x Burak4593* -e mysql
+
